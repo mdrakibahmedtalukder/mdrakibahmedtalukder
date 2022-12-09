@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mdrakibahmedtalukder
+- 👀 I’m interested in Coding & Programming
+- 🌱 I’m currently learning devloping software and mobile apps
+- 💞️ I’m looking to collaborate with any kind of devoloper company
+- 📫 How to reach me: askme.rakib@gmail.com
